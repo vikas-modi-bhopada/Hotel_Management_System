@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a26dd969-ea04-4efd-a2a5-37daba1a2670" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/details.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Simple_Billing_System_In_Python_With_Source_code/billing system/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details.py" beforeDir="false" afterPath="$PROJECT_DIR$/details.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -160,7 +162,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/customer.py</url>
-          <line>369</line>
+          <line>370</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">

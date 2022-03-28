@@ -331,6 +331,7 @@ class CustomerWindow:
             my_cursor.execute(query,val)
             mydb.commit()
             self.fetch_data()
+            self.reset()
             mydb.close()
             messagebox.showinfo("Succcess", "Customer details has been deleted successfully", parent=self.root)
 
